@@ -1,7 +1,7 @@
 {
-    function add(This is Sub branch) {
+    function add(This is main branch) {
   return a + b;
 }
 }
 
-console.log(add(This is Sub branch));
+console.log(add(This is main branch));
