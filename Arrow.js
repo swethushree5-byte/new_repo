@@ -1,7 +1,7 @@
 {
-    function add(a, b) {
+    function add(This is Sub branch) {
   return a + b;
 }
 }
 
-console.log(add(2, 3)); // Updating the clone file
+console.log(add(This is Sub branch));
