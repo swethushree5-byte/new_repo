@@ -4,4 +4,4 @@
 }
 }
 
-console.log(add(2, 3)); // Updating the clone file
+console.log(add(2, 3));
